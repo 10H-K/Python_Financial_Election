@@ -43,8 +43,8 @@ B) PyPoll Python script basic structure:
       * extraction and storage of data directly from Ballot ID/County/Candidate columns
   7. Usage of set and sort functions to create lists of unique candidates/counties in alphabetical order
   8. Creation of two dictionaries:
-      * First dictionary to store running vote tally for each individual candidate
-      * Second empty dictionary to store votes received percentages for each individual candidate 
+      * first dictionary to store running vote tally for each individual candidate
+      * second empty dictionary to store votes received percentages for each individual candidate 
   9. Iteration through list containing all voter candidate choices using For Loop
       * primary goal of updating running vote tallies
   10. Determination of total number of votes cast
