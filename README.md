@@ -58,13 +58,13 @@ B) PyPoll Python script basic structure:
 
 ## Results PyBank ##
 
-![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/2ba090f3-9742-47e9-b5f0-bc1d81c44bcf)
+![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/aa68c6a8-e1a8-48ed-bbfb-63c944c84a8d)
 
-![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/fac5e6de-8259-4bca-b848-26d6d1adff9b)
+![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/8c1cfc69-f807-45d2-af05-dc2840b9dbcd)
 
 
 ## Results PyPoll ##
 
-![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/5bf4f072-e590-424b-b8ee-a32c8666278f)
+![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/5bcda6e7-14af-446a-b9ee-081c61f6b77c)
 
-![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/70a1e93c-8bdf-46cc-b779-ef315ae2ff3d)
+![image](https://github.com/10H-K/Python_Financial_Election/assets/152930492/65b160a2-bae4-48ff-958f-c0af8e38b557)
